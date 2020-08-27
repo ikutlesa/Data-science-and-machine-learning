@@ -139,7 +139,7 @@ ax.set_title("Imbalanced Correlation Matrix \n (don't use for reference)", fonts
 
 
 #*****************************************************************************************************************
-#                                   Data preparaion
+#                                   Data preparation
 #*****************************************************************************************************************
 
 # Define the prep_data function to extrac features 
